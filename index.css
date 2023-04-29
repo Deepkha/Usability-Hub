@@ -112,3 +112,29 @@ li{
 .companies-header{
     text-align: center;
 }
+.features-header{
+    margin-top:40px;
+    text-align:center;
+
+}
+.features-area{
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+.features-card{
+    flex-direction:column;
+    
+    gap:20px;
+    max-width:30%;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.features-header h2{
+    margin-bottom:20px;
+}
+.features-section{
+    background-image: url(https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5af98b9f779b5a7d0a80351e_Oval%201.svg);
+}
+.features-card img{
+    justify-self:center ;
+}
